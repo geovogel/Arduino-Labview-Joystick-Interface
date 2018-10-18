@@ -8,4 +8,4 @@ The joystick interface GUI is developed in LabVIEW (Ver.2014) and uses the LINX 
 ![Diagram](IMG/JoystickBlockDiagram.PNG)*LabVIEW Block Diagram*
 ## Operation
 The VI provides X and Y trim sliders to center the cursor on the graph screen. Moving the joystick results in cooresponding movement of the cursor and tracks the output voltages. Clicking the Joystick marks the selection temporarily with a red dot and records the selection in the controls and indicators section. A novel feature is a string indicator for the coordinates that track with the movement of the cursor.
-![Demo](IMG/ArduinoJoystick.gif)*Operation Demo*
+![Demo](IMG/ArduinoJoystick.gif)* Operation Demo*
